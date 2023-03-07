@@ -1,4 +1,4 @@
 # APIREST
 
-__ L'APIREST conçu contient les méthodes GET, PUT, POST,DELETE __
-** Cette API permet de créer, modifier et supprimer des entités **
+__L'APIREST conçu contient les méthodes GET, PUT, POST, DELETE__
+**Cette API permet de créer, modifier et supprimer des entités**
